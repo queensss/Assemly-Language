@@ -8,7 +8,7 @@
 
 
 .CODE
-main proc
+MAIN PROC
 
     MOV AX,@DATA
     MOV DS,AX 
