@@ -9,7 +9,7 @@
 
 .CODE
 
-main proc
+MAIN PROC
 
     START:
       MOV AX,DATA
